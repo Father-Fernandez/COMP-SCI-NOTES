@@ -4,7 +4,7 @@ int main ()
 { 
     int a,b;
     
-    for(a = 2; a>=1; a--){
+    for(a = 9; a>=1; a--){
         for(b = 1; b <= 58 - a; b++){
             printf(" ");
         }
